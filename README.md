@@ -1,3 +1,7 @@
+
+## задание 
+https://github.com/netology-code/kuber-homeworks/blob/shkuber-16/2.1/2.1.md
+
 включим
 ```
 minikube addons enable storage-provisioner
